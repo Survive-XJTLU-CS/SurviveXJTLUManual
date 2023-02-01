@@ -8,4 +8,5 @@
 
 ## 自救篇
 
-* [Page 1](zi-jiu-pian/page-1.md)
+* [做有价值的研究](zi-jiu-pian/zuo-you-jia-zhi-de-yan-jiu/README.md)
+  * [TBD](zi-jiu-pian/zuo-you-jia-zhi-de-yan-jiu/tbd.md)
