@@ -31,9 +31,9 @@
 
 ## Y3-S1 
 ### CAN201 Introduction to Networking
-Delivered by Dr. Fei Chen and Dr. Junfan wen
+Delivered by Dr. Fei Chen and Dr. Wenjun Fan
 
-这门课在20届之前应该都是Fei Chen一个人带的，19届的cw据说很难，给了一个diy的protocol然后手搓C/S，我校为数不多的还可以的coding exercise，评分标准是按传输文件的速度，完全符合正态分布，被卷成麻花，report基本不看，后来据说惨遭投诉课程难度下降(cw难度被腰斩了)。分数结构上cw的占比很高(40%)，和期末(45%)差不多。有百分之15是lab课白送的，基本只要上了lab就能拿满。学期初还说要考勤，搞得人心惶惶的，结果每节课都有录播，不用去lab，看完录播课提交每周的assignment就可以拿满15分。在期中之前的lecture是Fei Chen讲的，后半学期则是Junfan Wen。 课程结构直接是照抄的[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)。非常经典的计算机网络课程，进度非常快，讲课进度和umass官方提供的视频课程差不多，个人感觉跟着这个进度是吃不透这门课的。如果想找替代课程的同学，推荐观看[中科大计算机网络](https://www.bilibili.com/video/BV1JV411t7ow/)。课程时长比较恐怖，2小时只讲我校一半lecture的东西，不做多赘述，自行观看。
+这门课在20届之前应该都是Fei Chen一个人带的，19届的cw据说很难，给了一个diy的protocol然后手搓C/S，我校为数不多的还可以的coding exercise，评分标准是按传输文件的速度，完全符合正态分布，被卷成麻花，report基本不看，后来据说惨遭投诉课程难度下降(cw难度被腰斩了)。分数结构上cw的占比很高(40%)，和期末(45%)差不多。有百分之15是lab课白送的，基本只要上了lab就能拿满。学期初还说要考勤，搞得人心惶惶的，结果每节课都有录播，不用去lab，看完录播课提交每周的assignment就可以拿满15分。在期中之前的lecture是Fei Chen讲的，后半学期则是Wenjun Fan。 课程结构直接是照抄的[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)。非常经典的计算机网络课程，进度非常快，讲课进度和umass官方提供的视频课程差不多，个人感觉跟着这个进度是吃不透这门课的。如果想找替代课程的同学，推荐观看[中科大计算机网络](https://www.bilibili.com/video/BV1JV411t7ow/)。课程时长比较恐怖，2小时只讲我校一半lecture的东西，不做多赘述，自行观看。
 有关cw：20届的cw变成了groupwork，并且分为了两个part，每个part判分分为code和report两个部分。Pt.1是阉割版本的19cw，给定了protocol和server文件，只要求完成对应的client文件，难度急剧下降。Pt.2是实现一根根据OpenFlow protocol的SDN重定向流量，还是比较有意思的，虽然实现功能只要在OPF1.3的基础上多加几行代码，但是要看懂SDN控制器的工作流程需要花一点时间，作者猛看OPF文档才找到了对应的API，最抽象的是下一节lab直接把答案需要使用的API讲出来了。由于难度被阉割，所以每一组的判分不会很悬殊，甚至变成了report美工大赛。
 
 ### CPT 203
