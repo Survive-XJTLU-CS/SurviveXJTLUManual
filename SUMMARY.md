@@ -12,6 +12,8 @@
 
 ## 自救篇
 
+* [ICS课程经验分享](zi-jiu-pian/ics-ke-cheng-jing-yan-fen-xiang/README.md)
+  * [利物浦CS大三课程介绍](zi-jiu-pian/ics-ke-cheng-jing-yan-fen-xiang/li-wu-pu-cs-da-san-ke-cheng-jie-shao.md)
 * [实习经验指北](zi-jiu-pian/shi-xi-jing-yan-zhi-bei.md)
 * [做有价值的研究](zi-jiu-pian/zuo-you-jia-zhi-de-yan-jiu/README.md)
   * [如何衡量学术价值](zi-jiu-pian/zuo-you-jia-zhi-de-yan-jiu/ru-he-heng-liang-xue-shu-jia-zhi.md)
