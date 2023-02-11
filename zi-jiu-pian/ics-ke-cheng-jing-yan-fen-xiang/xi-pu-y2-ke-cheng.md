@@ -4,7 +4,7 @@ description: TODO
 
 # 西浦Y2课程
 
-#### INT 102 Algorithmic Foundations and Problem Solving
+### INT 102 Algorithmic Foundations and Problem Solving
 
 \-- edited by **NONE**
 
