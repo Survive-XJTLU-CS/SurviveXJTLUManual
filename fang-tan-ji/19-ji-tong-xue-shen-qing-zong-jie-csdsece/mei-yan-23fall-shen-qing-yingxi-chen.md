@@ -2,7 +2,7 @@
 description: by Yingxi Chen
 ---
 
-# 23Fall CS 美研申请总结（更新中……）
+# 美研23fall申请 (Yingxi Chen)
 
 如果对本文有疑问可以联系：
 
@@ -128,27 +128,27 @@ Internship: 共三段，一段证券公司水实习，一段滴滴后端Intern�
 
 ## Results
 
-| Program          | tl & res          | conclusion                                                                                         |
-| ---------------- | ----------------- | -------------------------------------------------------------------------------------------------- |
-| NYU CS (Courant) |                   |                                                                                                    |
-| Rice CS          |                   |                                                                                                    |
-| Brown CS         |                   |                                                                                                    |
-| Duke MENG ECE    |                   |                                                                                                    |
-| Duke MS ECE      | 1.13-2.8 ad       | 来的比较早，收到还是挺开心的，课程挺不错的，能选成全软                                                                        |
-| UCSD CS75        | 12.18-2.15 ad     | 彩票之一录了很开心，应该就去这个，很感谢sd在二月中就给结果，加州天气也很好。                                                            |
-| CMU SESV         |                   |                                                                                                    |
-| CMU SESS         |                   |                                                                                                    |
-| Dartmouth CS     |                   |                                                                                                    |
-| Columbia CS      |                   |                                                                                                    |
-| Cornell Tech CM  | 1.3-2.10 wl       | 文书提到了创业，可能还是不够强才wl                                                                                 |
-| UIUC MCS         |                   |                                                                                                    |
-| UCI SE           |                   |                                                                                                    |
-| UW ECE           |                   |                                                                                                    |
-| UCSD EC79        |                   |                                                                                                    |
-| NWU CE           | 1.17-2.2 ad       | 这个项目今年突然变rolling了，不能等到ddl再申，2.2就给了offer，所以各位学弟学妹在申ddl晚的项目的时候还是尽量1月就提交，可能某年会突然变化                    |
-| NEU CS           | 11.2-2.8 ad       | 很火的项目，很多人做保底，感觉有可能会有人oq拒，我自己感觉我比较match neu喜欢的bg，neu是找工氛围很强的学校。还有就是提交尽量别太晚，不然校区可能会选不到喜欢的（我选的Seattle |
-| UCI NetSys       |                   |                                                                                                    |
-| DKU ECE          | 提前批ad, 小奖36000CNY |                                                                                                    |
+| Program          | tl & res                    | conclusion                                                                                         |
+| ---------------- | --------------------------- | -------------------------------------------------------------------------------------------------- |
+| NYU CS (Courant) |                             |                                                                                                    |
+| Rice CS          |                             |                                                                                                    |
+| Brown CS         |                             |                                                                                                    |
+| Duke MENG ECE    |                             |                                                                                                    |
+| Duke MS ECE      | 1.13-2.8 ad                 | 来的比较早，收到还是挺开心的，课程挺不错的，能选成全软                                                                        |
+| UCSD CS75        | 12.18-2.15 ad               | 彩票之一录了很开心，应该就去这个，很感谢sd在二月中就给结果，加州天气也很好。                                                            |
+| CMU SESV         |                             |                                                                                                    |
+| CMU SESS         |                             |                                                                                                    |
+| Dartmouth CS     |                             |                                                                                                    |
+| Columbia CS      |                             |                                                                                                    |
+| Cornell Tech CM  | 1.3-2.10 wl                 | 文书提到了创业，可能还是不够强才wl                                                                                 |
+| UIUC MCS         |                             |                                                                                                    |
+| UCI SE           |                             |                                                                                                    |
+| UW ECE           |                             |                                                                                                    |
+| UCSD EC79        |                             |                                                                                                    |
+| NWU CE           | 1.17-2.2 ad                 | 这个项目今年突然变rolling了，不能等到ddl再申，2.2就给了offer，所以各位学弟学妹在申ddl晚的项目的时候还是尽量1月就提交，可能某年会突然变化                    |
+| NEU CS           | 11.2-2.8 ad                 | 很火的项目，很多人做保底，感觉有可能会有人oq拒，我自己感觉我比较match neu喜欢的bg，neu是找工氛围很强的学校。还有就是提交尽量别太晚，不然校区可能会选不到喜欢的（我选的Seattle |
+| UCI NetSys       |                             |                                                                                                    |
+| DKU ECE          | 9.21-11.2 提前批ad, 小奖36000CNY | 留位费是真的贵，但还是交了，买个放心                                                                                 |
 
 ## 复盘 & Conclusion
 
