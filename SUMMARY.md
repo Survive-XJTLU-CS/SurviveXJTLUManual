@@ -25,4 +25,4 @@
 
 * [访谈集](fang-tan-ji/README.md)
   * [19级同学申请总结 (CS/DS/ECE)](fang-tan-ji/19-ji-tong-xue-shen-qing-zong-jie-csdsece/README.md)
-    * [TODO](fang-tan-ji/19-ji-tong-xue-shen-qing-zong-jie-csdsece/todo.md)
+    * [23Fall CS 美研申请总结（更新中……）](fang-tan-ji/19-ji-tong-xue-shen-qing-zong-jie-csdsece/23fall-cs-mei-yan-shen-qing-zong-jie-geng-xin-zhong.md)
