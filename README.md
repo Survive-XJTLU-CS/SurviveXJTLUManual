@@ -20,3 +20,9 @@
   * [如何衡量学术价值](zi-jiu-pian/zuo-you-jia-zhi-de-yan-jiu/ru-he-heng-liang-xue-shu-jia-zhi.md)
   * [获得科研机会的途径](zi-jiu-pian/zuo-you-jia-zhi-de-yan-jiu/huo-de-ke-yan-ji-hui-de-tu-jing.md)
 * [投身开源社区](zi-jiu-pian/tou-shen-kai-yuan-she-qu.md)
+
+***
+
+* [访谈集](fang-tan-ji/README.md)
+  * [19级同学申请总结 (CS/DS/ECE)](fang-tan-ji/19-ji-tong-xue-shen-qing-zong-jie-csdsece/README.md)
+    * [美研23fall申请 (Yingxi Chen)](fang-tan-ji/19-ji-tong-xue-shen-qing-zong-jie-csdsece/mei-yan-23fall-shen-qing-yingxi-chen.md)
