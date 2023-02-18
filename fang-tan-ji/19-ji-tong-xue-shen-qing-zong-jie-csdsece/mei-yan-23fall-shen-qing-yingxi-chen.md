@@ -62,7 +62,7 @@ linkedin: [https://www.linkedin.com/in/yingxi-chen-b0b3aa1a3/](https://www.linke
 
 ### BG
 
-XJTLU ICS 4+, GPA3.8+ (半奖 \* 1), TOEFL 101 (Best 103), GRE 150+167+3 (Best AW 4，但那次前面分太低了，离谱)
+XJTLU ICS 4+, 均分75, GPA3.8+ (半奖 \* 1), TOEFL 101 (Best 103), GRE 150+167+3 (Best AW 4，但那次前面分太低了，离谱)
 
 Research: 一段有产出科研，产出是一篇水论文三作（这个感觉没啥用）
 
@@ -133,7 +133,7 @@ Internship: 共三段，一段证券公司水实习，一段滴滴后端Intern�
 | NYU CS (Courant) |                             |                                                                                                    |
 | Rice CS          |                             |                                                                                                    |
 | Brown CS         |                             |                                                                                                    |
-| Duke MENG ECE    |                             |                                                                                                    |
+| Duke MENG ECE    | 1.13-2.18 ad                | 不知道为什么来的这么晚，照理来说是和MS ECE一起录的                                                                       |
 | Duke MS ECE      | 1.13-2.8 ad                 | 来的比较早，收到还是挺开心的，课程挺不错的，能选成全软                                                                        |
 | UCSD CS75        | 12.18-2.15 ad               | 彩票之一录了很开心，应该就去这个，很感谢sd在二月中就给结果，加州天气也很好。                                                            |
 | CMU SESV         |                             |                                                                                                    |
@@ -148,7 +148,7 @@ Internship: 共三段，一段证券公司水实习，一段滴滴后端Intern�
 | NWU CE           | 1.17-2.2 ad                 | 这个项目今年突然变rolling了，不能等到ddl再申，2.2就给了offer，所以各位学弟学妹在申ddl晚的项目的时候还是尽量1月就提交，可能某年会突然变化                    |
 | NEU CS           | 11.2-2.8 ad                 | 很火的项目，很多人做保底，感觉有可能会有人oq拒，我自己感觉我比较match neu喜欢的bg，neu是找工氛围很强的学校。还有就是提交尽量别太晚，不然校区可能会选不到喜欢的（我选的Seattle |
 | UCI NetSys       |                             |                                                                                                    |
-| DKU ECE          | 9.21-11.2 提前批ad, 小奖36000CNY | 留位费是真的贵，但还是交了，买个放心                                                                                 |
+| DKU ECE          | 9.21-11.2 提前批ad, 小奖36000CNY | 留位费是真的贵，但还是交了，买个安心                                                                                 |
 
 ## 复盘 & Conclusion
 
