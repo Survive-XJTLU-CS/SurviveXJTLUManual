@@ -15,6 +15,7 @@
 * [ICS课程经验分享](zi-jiu-pian/ics-ke-cheng-jing-yan-fen-xiang/README.md)
   * [西浦Y2课程](zi-jiu-pian/ics-ke-cheng-jing-yan-fen-xiang/xi-pu-y2-ke-cheng.md)
   * [利物浦CS大三课程介绍](zi-jiu-pian/ics-ke-cheng-jing-yan-fen-xiang/li-wu-pu-cs-da-san-ke-cheng-jie-shao.md)
+  * [西浦Y4选课指南](zi-jiu-pian/ics-ke-cheng-jing-yan-fen-xiang/xi-pu-y4-xuan-ke-zhi-nan.md)
 * [实习经验指北](zi-jiu-pian/shi-xi-jing-yan-zhi-bei.md)
   * [Backend](zi-jiu-pian/shi-xi-jing-yan-zhi-bei/backend.md)
 * [做有价值的研究](zi-jiu-pian/zuo-you-jia-zhi-de-yan-jiu/README.md)
