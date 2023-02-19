@@ -1,8 +1,8 @@
 # 利物浦CS大三课程介绍
 
-### Y3-S1
+## Y3-S1
 
-#### COMP201 Software Engineering I
+### COMP201 Software Engineering I
 
 Workload：★☆☆☆☆ (1.5/5)
 
@@ -14,7 +14,7 @@ Workload：★☆☆☆☆ (1.5/5)
 
 非常理论的一门课，lecture主要就是讲ppt上面关于软件工程的概念（这门课ppt大概有500多页）。课程内容涉及的还算比较广，介绍了Requirement analysis, System models, Specifications, UML等等软件工程的知识。有三个Assignment，一个是画Use-case diagram，一个是画各种UML图（例如class diagram，sequence diagram和activity diagram），剩下的是一个代码作业，用来实现第一个Use-case diagram。这个代码作业只占比5%，语言用的是Java，老师会提供代码框架，我们只需实现里面的一些功能就行，难度很低。值得吐槽的是这个代码作业要求十分不清晰，task sheet和老师给的代码注释里面有很多不一致，而且不提供测试用例，导致很多地方只能靠自己揣摩老师的意图，最后分数也是因为要求给的不清晰而被莫名奇妙扣掉很多分。另外前面那两个Assignment给分也一般般，也是会在一些地方莫名其妙扣你的分。期末考试就是ppt概念背诵考试，ppt上的概念记得越熟，分数越高。
 
-#### COMP207 Database Development
+### COMP207 Database Development
 
 Workload：★★★☆☆ (3/5)
 
@@ -26,7 +26,7 @@ Workload：★★★☆☆ (3/5)
 
 个人认为是利物浦大三上四门课里体验最好的一门课，老师也非常负责（虽然他的口音非常难听懂）。这门课主要是介绍数据库理论方面的知识，相比于大二在西浦上的那门CPT103 Intro to Database会深入很多。课程内容涉及SQL语言，事务，锁，日志，Query Processing\&Optimisization，分布式数据库等。这门课因为有很多新的知识，所以一开始学起来会感觉难度比较大，但是学到后面会渐渐对所学知识点有了更深的理解。课程设置比较完善，每周都会有大量的quiz题供我们练习巩固。这门课考核方式是一个assignment，一个每周都会有，考察那一周知识点的weekly assessment（4道选择题）。Assignment就是用SQL来写一些算法题，一般是有7道题，前面5道是easy难度，第6道是medium，最后一道题有一定难度，需要好好思考才能写出来。期末考试是30道选择题，有概念题也有计算题。这么课想要考高分需要把平时的quiz题，weekly assessment和mock exam的题目都理解才行。
 
-#### COMP218 Introduction to computation theory
+### COMP218 Introduction to computation theory
 
 Workload：★★☆☆☆ (2/5)
 
@@ -38,7 +38,7 @@ Workload：★★☆☆☆ (2/5)
 
 没有代码作业，真·完完全全理论的一门课。课程内容分为三大块，分别是regular language, context-free grammar和Turing machine。这门课上手难度很低，前几周的课非常简单，但是最后一部分Decidabilty and Undecidability那块会比较困难（好在期末那块就考两题左右）。这门课个人感觉lecture讲的一般般，但是tutorial一定要每周都去，因为只有在tutorial才会告诉你一些做题方法。考核方式一个是每周去Automata Tutor（ATv3）这个网站上做题，可以尝试无数次直到做对为止，所以这10%的分数相当于送分。另外两个平时分是由两次线下class test组成，难度不高，但是时间比较紧张，所以想要考高不仅需要知识掌握好，还得有一定的做题熟练度。期末考试40道选择，难度和class test差不多，不算太难的一门课。
 
-#### COMP219 Advanced AI
+### COMP219 Advanced AI
 
 Workload：★☆☆☆☆ (1/5)
 
