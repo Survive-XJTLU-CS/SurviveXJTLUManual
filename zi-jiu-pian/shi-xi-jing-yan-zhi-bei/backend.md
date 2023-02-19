@@ -12,7 +12,7 @@ description: by Yingxi Chen
 
 可以用超级简历或者LaTex去生成，注意一定要找简洁的模版，控制在一页纸，突出自己的优势。可以放GitHub链接，描述做过的project和掌握的skill（注意要和投递的岗位相关）。投外企简历上不要放照片。
 
-我们学校的学历在国内互联网一般是能过简历关的，我大二面过快手，滴滴，京东，字节，Microsoft (Explore)，大三面过Amazon (Summer Intern)，Microsoft (Summer Intern)，Google (Summer Intern) (国内Google面试非常难拿，我能拿纯属运气），所以一般是不会被卡简历关的。当然这个跟毕业时间也是有关系的，一般大厂都只招大三的暑期实习生。Microsoft Explore和Google Step是大二的项目（研究生同理，只看毕业时间），不过这种低年级项目招人比较少，还是挺难的。
+我们学校的学历在国内互联网一般是能过简历关的，我大二面过快手，滴滴，京东，Microsoft (Explore)，大三面过字节，Amazon (Summer Intern)，Microsoft (Summer Intern)，Google (Summer Intern) (国内Google面试非常难拿，我能拿纯属运气），所以一般是不会被卡简历关的。当然这个跟毕业时间也是有关系的，一般大厂都只招大三的暑期实习生。Microsoft Explore和Google Step是大二的项目（研究生同理，只看毕业时间），不过这种低年级项目招人比较少，还是挺难的。
 
 然后说下内推。个人认为内推码那种毫无用处（仅凭我浅薄的认知），不会影响什么，所以有没有都无所谓。简历关能不能过跟内推没啥关系。
 
