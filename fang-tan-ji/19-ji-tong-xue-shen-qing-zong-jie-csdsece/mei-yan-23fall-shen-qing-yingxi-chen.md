@@ -8,7 +8,7 @@ description: by Yingxi Chen
 
 v: cyxwechatid
 
-linkedin: [https://www.linkedin.com/in/yingxi-chen-b0b3aa1a3/](https://www.linkedin.com/in/yingxi-chen-b0b3aa1a3/)
+linkedin (欢迎来Connect): [https://www.linkedin.com/in/yingxi-chen-b0b3aa1a3/](https://www.linkedin.com/in/yingxi-chen-b0b3aa1a3/)
 
 本文分五大块来写，Preparation & BG, Program Selection, Online Application，Results和复盘 & Conclusion。
 
@@ -95,7 +95,7 @@ Internship: 共三段，一段证券公司水实习，一段滴滴后端Intern�
 | NYU CS (Courant) | GRE required 且官网描述对G的要求比较高 |
 | ---------------- | -------------------------- |
 | Rice CS          | GRE交比不交好                   |
-| Brown CS         | 录的人少                       |
+| Brown CS         | 录的人少，小班课，人均资源很多            |
 | Duke MENG ECE    | GRE交不交好像没差别                |
 | Duke MS ECE      | GRE交不交好像没差别                |
 | UCSD CS75        | 阳光海滩                       |
