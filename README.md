@@ -1,19 +1,22 @@
 # README
 
-* [README](./)
+## GitHub repo地址
 
-## 序
+{% embed url="https://github.com/Survive-XJTLU-CS/SurviveXJTLUManual" %}
 
-* [序](xu/xu.md)
+## 提issue
 
-## 立志篇
+如果大家对本手册中某些内容有疑问，欢迎在GitHub repo下提issue
 
-* [你想要做什么](li-zhi-pian/ni-xiang-yao-zuo-shi-mo.md)
 
-## 自救篇
 
-* [实习经验指北](zi-jiu-pian/shi-xi-jing-yan-zhi-bei.md)
-* [做有价值的研究](zi-jiu-pian/zuo-you-jia-zhi-de-yan-jiu/)
-  * [如何衡量学术价值](zi-jiu-pian/zuo-you-jia-zhi-de-yan-jiu/ru-he-heng-liang-xue-shu-jia-zhi.md)
-  * [获得科研机会的途径](zi-jiu-pian/zuo-you-jia-zhi-de-yan-jiu/huo-de-ke-yan-ji-hui-de-tu-jing.md)
-* [投身开源社区](zi-jiu-pian/tou-shen-kai-yuan-she-qu.md)
+## 如何提PR
+
+在gitbook.com网站上利用github账号登录，fork [Survive-XJTLU-CS](https://github.com/Survive-XJTLU-CS)/[**SurviveXJTLUManual**](https://github.com/Survive-XJTLU-CS/SurviveXJTLUManual) 到个人账户，导入repo并在markdown文件中做修改，commit到自己repo再提起PR，通过review后合并到master branch
+
+
+
+## 目录
+
+参见[summary.md](https://github.com/Survive-XJTLU-CS/SurviveXJTLUManual/blob/master/SUMMARY.md)
+
