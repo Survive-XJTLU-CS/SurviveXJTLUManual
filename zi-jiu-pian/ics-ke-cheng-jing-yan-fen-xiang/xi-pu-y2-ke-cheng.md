@@ -1,5 +1,5 @@
 ---
-description: Edit by NONE(Still work on)
+description: Edit by NONE
 ---
 
 # 西浦Y2课程
@@ -34,7 +34,7 @@ description: Edit by NONE(Still work on)
 <!-- CPT 103 Introduction to Databases -->
 ### CPT 103 Introduction to Databases
 #### 1. 课程概述
-- **教师**： Jianjun Chen and Jun Qi
+- **教师**： Jianjun Chen & Jun Qi
 - **难度**： &starf;&starf;&starf;&starf;&star;
 - **收获**： &starf;&starf;&starf;&starf;&star;
 - **主要包含以下几部分：**
@@ -119,10 +119,78 @@ description: Edit by NONE(Still work on)
 
 
 ## Y3-S2
+
+<!-- CPT102	Data Structures -->
+### CPT102	Data Structures
+#### 1. 课程概述
+- **教师**： Steven Guan &  Kok Hoe Wong
+- **难度**： &starf;&starf;&starf;&star;&star;
+- **收获**： &starf;&starf;&starf;&star;&star;
+- **主要包含以下几部分：**
+  - 了解数据结构、数据类型和抽象数据类型抽象、信息隐藏与封装效率;
+  - 认识并掌握部分静态和动态数据结构：数组、链表、堆栈、队列、树；【**重难点**】
+  - 了解一些基于数据结构的 “高级” 排序方法【**重难点**】
+  - 了解哈希表和字典等数据结构；
+  - 如何选择合适的数据结构。
+
+#### 2. 课程分值
+- **学分**： 5
+- **组成**： 两个平时大作业【Assessments】各占 **10%** + 一个期末考试【Exam】**80%**。
+- **难度**： &starf;&starf;&starf;&star;&star;
+
+- **笔者个人体会【仅代表个人】：**
+  - **Assessment 难度**： &starf;&starf;&star;&star;&star;
+    - 时间较为充裕，全是课程内知识的应用和变式【指 **PPT例题**】
+    - 唯一值得注意的就是 **读题** 一定要十分<u>仔细</u>，避免丢掉冤枉分。
+  - **Exam 难度：**  &starf;&starf;&starf;&starf;&star;
+     - 开卷考试【笔者20级】，试卷分为 I、II 两部分。
+     - **Part I** 是**选择题【5选1】**，共**24**题，涵盖几乎所有重要知识点；
+     - **Part II** 则是 **数据结构相关算法** 的落地实践，大概率是**课内PPT例题变式**，共两道（一道）是按算法跑一边填结果，一道是给你几个选项，选择其中几个排序来构造符合要求的算法。
+
+#### 3. 评价
+- 学完了可以动手实现一下，加深印象
+- 多啃 PPT 例题
+
+<!-- CPT104	Operating Systems Concepts -->
+### CPT104	Operating Systems Concepts
+#### 1. 课程概述
+- **教师**： Gabriela Mogos
+- **难度**： &starf;&starf;&starf;&starf;&star;
+- **收获**： &starf;&starf;&starf;&starf;&star;
+- **主要包含以下几部分：**
+  - 进程管理:进程管理和调度，资源分配、互斥、信号量、死锁【**重难点**】
+  - 内存管理:主内存和虚拟内存，内存分配，分页，分段。【**重难点**】
+  - 存储系统
+  - 文件系统:F.S.接口和F.S.实现
+  - I/0系统:轮询/中断
+  - 保护和安全
+  - 虚拟机和分布式系统
+  - 简单的C语言（Lab）【**重难点**】
+
+#### 2. 课程分值
+- **学分**： 5
+- **组成**： 两个平时大作业【Assessments】各占 **10%** + 一个期末考试【Exam】**80%**。
+- **难度**： &starf;&starf;&starf;&star;&star;
+
+- **笔者个人体会【仅代表个人】：**
+  - **Assessment 难度**： &starf;&starf;&starf;&starf;&star;
+    - 全是课程内知识的应用和变式【指 **PPT例题**】, 掌握那几个重点算法和概念基本就稳了
+    - 唯一值得注意的就是 **读题** 一定要十分<u>仔细</u>，避免丢掉冤枉分。
+  - **Exam 难度：**  &starf;&starf;&starf;&starf;&star;
+     - 开卷考试，题量大【笔者20级】，试卷分为 **四** 部分，每一题都最好写尽步骤，避免丢失步骤分。
+     - **Part I** 是 **基础概念题**，涵盖几乎所有重要知识点，（写的字偏多）；
+     - **Part II** 是 **CPU调度，内存管理，磁盘调度** 的落地实践**课内PPT例题变式**；
+     - **Part III** 是 **资源分配** 的落地实践 **课内PPT例题变式**
+     - **Part IV** 是 **C语言在操作系统中的应用**， **实验课例题变形**
+
+#### 3. 评价
+- 课程难度大，知识点偏多，建议学完一周课程后好好复习知识点
+- 老师人很好，又不会的可以请教
+
 <!-- INT 102 Algorithmic Foundations and Problem Solving -->
 ### INT 102 Algorithmic Foundations and Problem Solving
 #### 1. 课程概述
-- **教师**： Dr. Wenjin Lu and Dr. Jia Wang
+- **教师**： Dr. Wenjin Lu & Dr. Jia Wang
 - **难度**： &starf;&starf;&starf;&star;&star;
 
 - **主要包含以下几部分：**
@@ -153,4 +221,46 @@ description: Edit by NONE(Still work on)
   2. [编程竞赛知识整合站点【相当于一个算法百科】](https://oi-wiki.org/)
   3. [算法例题库](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=ghm)
   4. [国内常用刷题网站](https://leetcode.cn/)
+
+<!-- INT104	Artificial Intelligence -->
+### INT104	Artificial Intelligence
+#### 1. 课程概述
+- **教师**： Shengchen Li & Ye Wu & Yushi Li
+- **难度**： &starf;&starf;&starf;&star;&star;
+- **收获**： &starf;&starf;&starf;&starf;&star;
+- **主要包含以下几部分：**
+  - 前置数学知识: 线性代数、概率论；数据预处理
+  - 机器学习算法：回归/分类, 梯度下降训练分类器，监督和非监督学习【**重难点**】
+  - 使用机器学习解决实际问题的步骤
+  - AI算法的应用：计算机视觉（CV）、自然语言处理（NLP）...
+
+#### 2. 课程分值
+- **学分**： 5
+- **组成**： 两个平时大作业【Assessments】各占 **15%** + 一个期末考试【Exam】**70%**。
+- **难度**： &starf;&starf;&starf;&star;&star;
+
+- **笔者个人体会【仅代表个人】：**
+  - 由于疫情因素，笔者这届的 Exam 和 Assessment II 分值权重互换了，这也导致了当时的实验报告特别卷（TAT）
+  - **Assessment I 难度**： &starf;&starf;&star;&star;&star;
+    - 一篇关于 AI 发展的文章，难度不高，按照要求写就行了；
+    - 笔者当时的题目是 **讨论在不久的将来自动音乐生成方法的可能发展**
+  - **Assessment II 难度**： &starf;&starf;&starf;&star;&star;
+    - 一个基础的机器学习实践，难度不大。
+    - 实验报告要注意格式和逻辑，讲清楚每一步实验的原因和目的，最后对整体实验做一个总结分析。
+    - 注意文章引用格式
+    - **重要**： 有3节lab课要去向TA汇报实验进度，没达到参加次数要求的会整个 Assessment 没有分
+  - **Exam 难度：**  &starf;&starf;&starf;&starf;&star;
+     - 笔者当时 全是选择题，注重机器学习基础概念和简单使用与分析；认真复习没有什么难度。
+
+#### 3. 评价
+- 课程知识点跨度大，知识点偏多，建议学完一周课程后好好复习知识点
+- 一定要问清楚 Assessment 要求， 当时要求连着改，真的搞人心态。
+
+#### 4. 课外网站
+- 以下是笔者在学习该课程时使用过的网站，建议收藏：
+  1. [Kaggle--学习机器学习实践的网站](https://www.kaggle.com/)
+  2. [DataCamp--学习机器学习实践的网站](https://oi-wiki.org/)
+  3. [吴恩达机器学习系列课程](https://www.bilibili.com/video/BV164411b7dx?share_source=copy_web)
+  
+
 
