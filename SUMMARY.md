@@ -29,3 +29,4 @@
 * [19级同学申请总结 (CS/DS/ECE)](fang-tan-ji/19-ji-tong-xue-shen-qing-zong-jie-csdsece/README.md)
   * [美研23fall申请 (Yingxi Chen)](fang-tan-ji/19-ji-tong-xue-shen-qing-zong-jie-csdsece/mei-yan-23fall-shen-qing-yingxi-chen.md)
   * [美研23fall申请 (Pin Qian)](fang-tan-ji/19-ji-tong-xue-shen-qing-zong-jie-csdsece/mei-yan-23fall-shen-qing-pin-qian.md)
+  * [美研23fall申请 (Hejie Huang)](fang-tan-ji/19-ji-tong-xue-shen-qing-zong-jie-csdsece/mei-yan-23fall-shen-qing-hejie-huang.md)
