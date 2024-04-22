@@ -4,7 +4,7 @@ description: Edit by NONE
 
 # 西浦Y2课程
 
-## Y3-S1
+## Y2-S1
 
 <!-- CPT 101 Computer Systems -->
 ### CPT 101 Computer Systems
@@ -118,7 +118,7 @@ description: Edit by NONE
 - 平时刷刷 [LeetCode](https://leetcode.cn/) 还是容易得分的
 
 
-## Y3-S2
+## Y2-S2
 
 <!-- CPT102	Data Structures -->
 ### CPT102	Data Structures
