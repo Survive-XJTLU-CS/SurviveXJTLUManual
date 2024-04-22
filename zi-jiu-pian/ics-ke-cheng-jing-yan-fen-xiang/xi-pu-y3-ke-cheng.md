@@ -38,7 +38,7 @@ Delivered by: Yong Yue
 
 Programming Language: C++
 
-Workload：★★★☆☆ (3/5) （如果很卷的话 cwworkload可以做的很大） 课程收获: ★★★☆ (3/5)&#x20;
+Workload：★★★☆☆ (3/5) （如果很卷的话 cwworkload可以做的很大） 课程收获: ★★★☆☆ (3/5)&#x20;
 
 &#x20;这一门课和DB是俩门选修课，二选一，如果想走游戏引擎或者游戏客户端开发的同学可以选这门课。(然而并没有什么很大用处) 岳老板常年沉淀过的课，对于图形学的intro课来说，理论内容应该算是面面俱到：从一开始的基础线性代数，变换矩阵，渲染管线，建模（这一部分感觉有的知识比较多余），光照和材质，纹理映射等。理论内容还是很多的。PPT依旧包浆，像Ray tracing之类的知识没有涉及到。岳老板可能年纪大了，lecture都感觉一直在念ppt，昏昏欲睡。Lab给的sample code还是挺有用的，值得看看，对完成两个coursework很有帮助。Lec内容和Lab内容可能有点割裂，lec纯理论，结尾时候会讲解几个OpenGL的API，lab的话就是给了基于OpenGL的samplecode，去看一些理论的简单运用。&#x20;
 
