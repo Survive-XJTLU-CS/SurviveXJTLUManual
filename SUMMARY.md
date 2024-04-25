@@ -13,7 +13,10 @@
 ## 自救篇
 
 * [CST课程经验分享](zi-jiu-pian/cst-ke-cheng-jing-yan-fen-xiang/README.md)
-  * [西浦Y2课程](zi-jiu-pian/cst-ke-cheng-jing-yan-fen-xiang/xi-pu-y2-ke-cheng.md)
+  * [😊 Overview](zi-jiu-pian/cst-ke-cheng-jing-yan-fen-xiang/overview.md)
+  * [Y2 cources and experience](zi-jiu-pian/cst-ke-cheng-jing-yan-fen-xiang/y2-cources-and-experience.md)
+  * [Y3 cources and experience](zi-jiu-pian/cst-ke-cheng-jing-yan-fen-xiang/y3-cources-and-experience.md)
+  * [Y4 cources and experience](zi-jiu-pian/cst-ke-cheng-jing-yan-fen-xiang/y4-cources-and-experience.md)
 * [ICS课程经验分享](zi-jiu-pian/ics-ke-cheng-jing-yan-fen-xiang/README.md)
   * [西浦Y2课程](zi-jiu-pian/ics-ke-cheng-jing-yan-fen-xiang/xi-pu-y2-ke-cheng.md)
   * [西浦Y3课程](zi-jiu-pian/ics-ke-cheng-jing-yan-fen-xiang/xi-pu-y3-ke-cheng.md)
