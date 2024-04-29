@@ -9,6 +9,9 @@
 * **组成：两个Assignment**和一个**Final Exam**
 * **Assignment I**：是几道练习题，包括拉普拉斯变换和傅里叶变换之类的。有的题是书上的练习题，可以在网上找到过程。老师似乎还是很重视化简过程的，要求我们写的很细。
 * **Final：**也是算不完的题，我们当初因为是线上考试，所以老师为了防止我们作弊，把计算量出的很大，最后根本写不完。你们在复习的时候也不能参考我们的试卷（参考题型就行了）。整体的题型变化不是很大，老师侧重于后半学期讲的内容。（老师最后一节课会划重点，基本上都会考）
+* 推荐网课：
+  1. &#x20;[画质增强版祖师爷奥本海姆《信号与系统》合集](https://www.bilibili.com/video/BV1SB4y1C7yx/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=ab192607ba364417df9811d6993d93bf)
+  2. [2022浙江大学信号与系统（含配套课件和代码） - 胡浩基老师](https://www.bilibili.com/video/BV1g94y1Q76G?p=12\&vd\_source=ab192607ba364417df9811d6993d93bf)
 
 ### EEE211 Electronic Circuits and Systems
 
@@ -18,14 +21,16 @@
 * **Assignment I：**第一个作业是用LTSpice搭一些电路，分析一些数值。总体类似于用实验做出一个数值，之后用理论推导出一样的值，双向验证。第二个作业也是差不多，只不过电路更复杂了一点。个人认为，这两个lab对这门课的理解非常重要，如果把这两个作业研究透彻了，最后期末复习应该会比较轻松。
 * **In-class quiz：**可以称之为期中考试，时间一个半小时，就是正常上课的时间和教室。一共6道题，计算量蛮大，搞不好会做不完，虽然说是闭卷，但是大家都在一个教室，相隔都不远。主要还是把控好时间，记得带计算器。
 * **Final exam：**neel老师是会送一些分的，会出上课时候讲的一些原题，而且占比不小（怎么也有四分之一以上了），一定要把握好啊（我就没把握好）。拿高分还是比较容易的。
+* 推荐网课:
+  1. &#x20;[【电子】 模拟电子技术基础 上交大 郑益慧主讲](https://www.bilibili.com/video/BV1Gt411b7Zq?p=13\&vd\_source=ab192607ba364417df9811d6993d93bf)（这门课也是EEE109的网课，后半部分是EEE211）
 
 ### CAN201 Introduction to Networking
 
-提前学怎么装虚拟机
+[之前学长已经写的很完美了，所以大家看学长们写的就好了](../ics-ke-cheng-jing-yan-fen-xiang/xi-pu-y3-ke-cheng.md#can201-introduction-to-networking)
 
 ### CPT203 Software Engineering I
 
-想死
+[之前学长已经写的很完美了，所以大家看学长们写的就好了](../ics-ke-cheng-jing-yan-fen-xiang/xi-pu-y3-ke-cheng.md#cpt-203-software-engineering)
 
 ## Semester2
 
@@ -38,6 +43,9 @@
 * **组成：**Assignment（20%）和final exam（80%）
 * **Assignment：**作业是一个Matlab程序，我们要填一些代码进去，虽然只有几个空，但是其实是挺难的，要我们对上课的一些知识掌握好，并且有更深入的理解。其实整个作业就是上课讲的一些公式的推导和验证。话又说回来，老师给分是很高的（基本上都八九十）可能是因为期末考试太难了。作业有刘烨特色，里面的数据是跟学号有关系的，万一错了是真的扣很多分。
 * **Final exam**：还好老师不会变化太多题型，基本上都是跟往年的差不多的。考完试给我们的感觉就是，我也不知道自己写没写对，反正是写完了。读题的时候有时候要读好多遍才能懂老师是什么意思。（可能这就是我经常不上课导致的吧）
+* 推荐资源：
+  1. [斯坦福大学EE179](https://web.stanford.edu/class/ee179/Notes.html)
+  2. [Analog and Digital Communication](https://www.youtube.com/playlist?list=PLwjK\_iyK4LLArUHRm3SvPLT0XWlVhpl4h) (请使用Chrome打开)
 
 ### CPT210 Microprocessor Systems
 
@@ -46,12 +54,15 @@
 * **组成：**两个Assignment（15% + 15%）和Final exam（70%）组成的。（虽然e桥上会写一个Lab和一个As组成的，其实这两个最后是一起的）
 * **Assignment**：两个作业注重实践，虽然上课都讲的很透了，但是自己上手还是会手足无措。两个作业是一起release的，但是交的时候是两个窗口。我印象里第二个是很难的，我们要用汇编写一个小游戏，还要解决一些运行时间优化问题，非常折磨。
 * **Final exam：**最后期末考试很简单，对着PPT复习就行了，我记得我就花了一晚上。从头过一遍就行了，知识点也不是很多。而且要重视一下复习课时候老师讲的题，没准会有惊喜。
+* 推荐资源：[Index of /classes/wi14/cse30-c/lectures](https://cseweb.ucsd.edu/classes/wi14/cse30-c/lectures/)（推荐自学，这个只能作为参考，很多知识咱们都没学过）
 
 ### EEE205 Digital Electronics II
 
 这门课之前是许铭老师教的，但是听说现在换老师了，只能等后面的人来make contribution了。
 
 许铭当时讲的是比较简单的，后面期末考试也很简单，可以算得上是大三下能往上拉分的一门课了。但是也不能轻敌。基本上讲的是HDL入门，会讲一些简单的HDL代码，而且实验也是用DE1的开发板做一些简单的实验。当时是做了一些进制转换器，要用前面老师给的代码写，基本上不用自己写代码。
+
+
 
 ### MEC202 Industrial Awareness and Group Project
 
@@ -70,4 +81,6 @@
 * **Final exam：**期末考试考的也很碎，最后画根轨迹很重要，肯定会有一个大题，建议掌握老师上课说的方法。
 
 ### CPT204
+
+[之前学长写的已经很完美了，所以大家还是去看学长们写的吧](../ics-ke-cheng-jing-yan-fen-xiang/xi-pu-y3-ke-cheng.md#cpt204-advanced-oo-programming)
 
